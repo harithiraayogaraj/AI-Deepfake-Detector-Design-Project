@@ -11,5 +11,5 @@ The project explored how an AI system could be designed to identify deepfake med
 -Contributed to the final presentation.
 
 ## Deliverable
-[View Research Report]
-[View Project Presentation]
+[View Research Report](Beyond-Illusion-Research-Report.pdf)
+[View Project Presentation](Beyond%20Illusion%20%E2%80%94%20Ethical%20Deepfake%20Detection%20System.pdf)
